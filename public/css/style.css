@@ -1,0 +1,27 @@
+/* h1{
+    
+}
+.completed{
+    color: gray;
+    text-decoration: line-through;
+} */
+
+#nav{
+    justify-content: center;
+    align-items: center;
+}
+
+#login{ 
+    color: white;
+     justify-content: end;
+     align-items: flex-end;
+     align-content: flex-end;
+     justify-items: flex-end;
+    
+}
+
+body{
+    margin-top: 0;
+    padding-top: 0;
+    
+}
